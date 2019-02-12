@@ -23,8 +23,10 @@ namespace VS_Demo
             ////local changes
 
             ////some more changes
-            
+
             ////more changes
+
+            ////last local changes
         }
     }
 }
