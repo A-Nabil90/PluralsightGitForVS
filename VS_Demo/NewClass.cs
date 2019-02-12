@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace VS_Demo
 {
-    class Program
+    public class NewClass
     {
-        static void Main(string[] args)
-        {
-            ////changes on the main branch from VS 2017
-        }
+
     }
 }
