@@ -18,7 +18,11 @@ namespace VS_Demo
             
             ////Change from visual studio 2017
             
-            ////1.1.5 changes
+            ////1.1.5 changes 
+            
+            ////local changes
+            
+            ////some more changes
         }
     }
 }
