@@ -15,14 +15,16 @@ namespace VS_Demo
 
             ////master changes 
             ////These changes will be stashed
-            
+
             ////Change from visual studio 2017
-            
+
             ////1.1.5 changes 
-            
+
             ////local changes
-            
+
             ////some more changes
+            
+            ////more changes
         }
     }
 }
