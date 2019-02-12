@@ -11,6 +11,7 @@ namespace VS_Demo
         static void Main(string[] args)
         {
             ////changes on the main branch from VS 2017
+            ////v1.1 changes
         }
     }
 }

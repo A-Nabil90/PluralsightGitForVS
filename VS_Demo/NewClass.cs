@@ -8,6 +8,6 @@ namespace VS_Demo
 {
     public class NewClass
     {
-
+        ////Additional 1.1 changes
     }
 }
