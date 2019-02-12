@@ -15,6 +15,8 @@ namespace VS_Demo
 
             ////master changes 
             ////These changes will be stashed
+            
+            ////Change from visual studio 2017
         }
     }
 }
